@@ -6,6 +6,7 @@ import java.util.Date;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -24,10 +25,12 @@ public class Cliente implements Serializable {
 
     @NotEmpty
     @Size(min = 1, max = 50)
+    @Pattern(regexp = "^[a-zA-Z\\s]+$", message = "El nombre solo puede contener letras y espacios")
     private String nombre;
 
     @NotEmpty
     @Size(min=1, max=50)
+    @Pattern(regexp = "^[a-zA-Z\\s]+$", message = "El apellido solo puede contener letras y espacios")
     private String apellido;
 
     @NotEmpty

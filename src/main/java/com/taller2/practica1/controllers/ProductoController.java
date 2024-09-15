@@ -4,7 +4,6 @@ import com.taller2.practica1.models.DAO.IProductoDao;
 import com.taller2.practica1.models.Entity.Producto;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;

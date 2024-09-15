@@ -49,7 +49,8 @@
 
         <div class="mb-3">
             <label for="valorUnitario" class="form-label">Valor Unitario:</label>
-            <input type="number" th:field="*{valorUnitario}" class="form-control" id="valorUnitario" placeholder="Valor Unitario">
+            <input type="number" th:field="*{valorUnitario}" class="form-control" id="valorUnitario" placeholder="Valor Unitario"
+                   min="0" max="9999999999">
             <div th:if="${#fields.hasErrors('valorUnitario')}" class="text-danger mt-2">
                 <p th:errors="*{valorUnitario}"></p>
             </div>
@@ -57,7 +58,8 @@
 
         <div class="mb-3">
             <label for="stock" class="form-label">Stock:</label>
-            <input type="number" th:field="*{stock}" class="form-control" id="stock" placeholder="Cantidad en Stock">
+            <input type="number" th:field="*{stock}" class="form-control" id="stock" placeholder="Cantidad en Stock"
+                   min="0" max="9999999999">
             <div th:if="${#fields.hasErrors('stock')}" class="text-danger mt-2">
                 <p th:errors="*{stock}"></p>
             </div>

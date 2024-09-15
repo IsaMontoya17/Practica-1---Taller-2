@@ -28,9 +28,9 @@ public class Producto implements Serializable {
     private String descripcion;
 
     @NotNull
-    @Min(value = 1)
+    @Min(value = 1) //tiene que costar minimo 1 peso colombiano
     @Digits(integer = 10, fraction = 0) //valida que el valor debe ser un número entero de hasta 10 dígitos
-    private Integer valorUnitario;
+    private Long valorUnitario;
 
     @NotNull
     @Min(value = 0) //no puede ser negativo
