@@ -39,3 +39,223 @@
 [2024-09-15 17:19:01] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
 [2024-09-15 17:19:15] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
 [2024-09-15 17:19:15] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:24:06] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:24:06] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:24:10] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:24:10] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:24:11] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:24:11] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:24:11] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:24:11] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:24:12] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:24:12] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:24:13] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:24:13] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:24:59] [ INFO ] [ClienteDaoImp:52] Cliente guardado con éxito: Cliente(id=1, nombre=Isabela, apellido=Montoya, email=isabelamontoya2021@gmail.com, createAt=Sun Sep 15 17:24:59 COT 2024)
+[2024-09-15 17:24:59] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:24:59] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 1
+[2024-09-15 17:26:29] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:26:29] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:26:31] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:26:31] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:26:31] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:26:31] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:26:32] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:26:32] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:26:38] [ INFO ] [ClienteDaoImp:52] Cliente guardado con éxito: Cliente(id=1, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=Sun Sep 15 17:26:38 COT 2024)
+[2024-09-15 17:26:38] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:26:38] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 1
+[2024-09-15 17:26:43] [ INFO ] [ClienteDaoImp:63] Buscando cliente con ID: 1
+[2024-09-15 17:26:43] [ INFO ] [ClienteDaoImp:68] Cliente encontrado: Cliente(id=1, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:26:50] [ INFO ] [ClienteDaoImp:42] Cliente actualizado con éxito:Cliente(id=1, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:26:50] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:26:50] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 1
+[2024-09-15 17:26:55] [ INFO ] [ClienteDaoImp:83] Eliminando cliente con ID: 1
+[2024-09-15 17:26:55] [ INFO ] [ClienteDaoImp:63] Buscando cliente con ID: 1
+[2024-09-15 17:26:55] [ INFO ] [ClienteDaoImp:68] Cliente encontrado: Cliente(id=1, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:26:55] [ INFO ] [ClienteDaoImp:88] Cliente eliminado con éxito: Cliente(id=1, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:26:56] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:26:56] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:27:02] [ INFO ] [ClienteDaoImp:52] Cliente guardado con éxito: Cliente(id=2, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=Sun Sep 15 17:27:02 COT 2024)
+[2024-09-15 17:27:02] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:27:02] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 1
+[2024-09-15 17:27:03] [ INFO ] [ClienteDaoImp:63] Buscando cliente con ID: 2
+[2024-09-15 17:27:03] [ INFO ] [ClienteDaoImp:68] Cliente encontrado: Cliente(id=2, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:27:07] [ INFO ] [ClienteDaoImp:42] Cliente actualizado con éxito:Cliente(id=2, nombre=Isabela, apellido=Montoya Alarcóncita, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:27:07] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:27:07] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 1
+[2024-09-15 17:27:12] [ INFO ] [ClienteDaoImp:83] Eliminando cliente con ID: 2
+[2024-09-15 17:27:12] [ INFO ] [ClienteDaoImp:63] Buscando cliente con ID: 2
+[2024-09-15 17:27:12] [ INFO ] [ClienteDaoImp:68] Cliente encontrado: Cliente(id=2, nombre=Isabela, apellido=Montoya Alarcóncita, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:27:12] [ INFO ] [ClienteDaoImp:88] Cliente eliminado con éxito: Cliente(id=2, nombre=Isabela, apellido=Montoya Alarcóncita, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:27:12] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:27:12] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:27:18] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:27:18] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:27:44] [ INFO ] [ProductoDaoImp:49] Producto guardado con éxito: Producto(id=1, nombre=papas, descripcion=papas para comer con salsa, valorUnitario=1000000, stock=1)
+[2024-09-15 17:27:44] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:27:44] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 1
+[2024-09-15 17:27:46] [ INFO ] [ProductoDaoImp:60] Buscando producto con ID: 1
+[2024-09-15 17:27:46] [ INFO ] [ProductoDaoImp:65] Producto encontrado: Producto(id=1, nombre=papas, descripcion=papas para comer con salsa, valorUnitario=1000000, stock=1)
+[2024-09-15 17:27:53] [ INFO ] [ProductoDaoImp:39] Producto actualizado con éxito: Producto(id=1, nombre=papas, descripcion=papas para comer con salsa, valorUnitario=1000000, stock=100)
+[2024-09-15 17:27:53] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:27:53] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 1
+[2024-09-15 17:27:57] [ INFO ] [ProductoDaoImp:80] Eliminando producto con ID: 1
+[2024-09-15 17:27:57] [ INFO ] [ProductoDaoImp:60] Buscando producto con ID: 1
+[2024-09-15 17:27:57] [ INFO ] [ProductoDaoImp:65] Producto encontrado: Producto(id=1, nombre=papas, descripcion=papas para comer con salsa, valorUnitario=1000000, stock=100)
+[2024-09-15 17:27:57] [ INFO ] [ProductoDaoImp:85] Producto eliminado con éxito: Producto(id=1, nombre=papas, descripcion=papas para comer con salsa, valorUnitario=1000000, stock=100)
+[2024-09-15 17:27:57] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:27:57] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:28:02] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:28:02] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:31:14] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:31:14] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:31:22] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:31:22] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:31:23] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:31:23] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:31:24] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:31:24] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:31:25] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:31:25] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:31:25] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:31:25] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:31:27] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:31:27] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:32:29] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:32:29] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:32:31] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:32:31] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:32:32] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:32:32] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:32:33] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:32:33] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:32:34] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:32:34] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:32:35] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:32:35] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:32:36] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:32:36] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:32:37] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:32:37] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:32:37] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:32:37] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:32:38] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:32:38] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:32:40] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:32:40] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:33:01] [ INFO ] [ClienteDaoImp:52] Cliente guardado con éxito: Cliente(id=1, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=Sun Sep 15 17:33:01 COT 2024)
+[2024-09-15 17:33:01] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:33:01] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 1
+[2024-09-15 17:33:02] [ INFO ] [ClienteDaoImp:63] Buscando cliente con ID: 1
+[2024-09-15 17:33:02] [ INFO ] [ClienteDaoImp:68] Cliente encontrado: Cliente(id=1, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:33:05] [ INFO ] [ClienteDaoImp:42] Cliente actualizado con éxito:Cliente(id=1, nombre=Isabela, apellido=Montoyirtaaaaaaaaaa, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:33:05] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:33:05] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 1
+[2024-09-15 17:33:08] [ INFO ] [ClienteDaoImp:83] Eliminando cliente con ID: 1
+[2024-09-15 17:33:08] [ INFO ] [ClienteDaoImp:63] Buscando cliente con ID: 1
+[2024-09-15 17:33:08] [ INFO ] [ClienteDaoImp:68] Cliente encontrado: Cliente(id=1, nombre=Isabela, apellido=Montoyirtaaaaaaaaaa, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:33:08] [ INFO ] [ClienteDaoImp:88] Cliente eliminado con éxito: Cliente(id=1, nombre=Isabela, apellido=Montoyirtaaaaaaaaaa, email=isabelamontoya2021@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:33:08] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:33:08] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:33:10] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:33:10] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:33:27] [ INFO ] [ProductoDaoImp:49] Producto guardado con éxito: Producto(id=1, nombre=Papas fritas, descripcion=para comer con salsa, valorUnitario=11, stock=1)
+[2024-09-15 17:33:27] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:33:27] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 1
+[2024-09-15 17:33:28] [ INFO ] [ProductoDaoImp:60] Buscando producto con ID: 1
+[2024-09-15 17:33:28] [ INFO ] [ProductoDaoImp:65] Producto encontrado: Producto(id=1, nombre=Papas fritas, descripcion=para comer con salsa, valorUnitario=11, stock=1)
+[2024-09-15 17:33:30] [ INFO ] [ProductoDaoImp:39] Producto actualizado con éxito: Producto(id=1, nombre=Papas fritas, descripcion=para comer con salsa, valorUnitario=110000, stock=1)
+[2024-09-15 17:33:30] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:33:30] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 1
+[2024-09-15 17:33:32] [ INFO ] [ProductoDaoImp:60] Buscando producto con ID: 1
+[2024-09-15 17:33:32] [ INFO ] [ProductoDaoImp:65] Producto encontrado: Producto(id=1, nombre=Papas fritas, descripcion=para comer con salsa, valorUnitario=110000, stock=1)
+[2024-09-15 17:33:35] [ INFO ] [ProductoDaoImp:39] Producto actualizado con éxito: Producto(id=1, nombre=Papas fritas, descripcion=para comer con salsaaaaa, valorUnitario=110000, stock=1)
+[2024-09-15 17:33:35] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:33:35] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 1
+[2024-09-15 17:33:37] [ INFO ] [ProductoDaoImp:80] Eliminando producto con ID: 1
+[2024-09-15 17:33:37] [ INFO ] [ProductoDaoImp:60] Buscando producto con ID: 1
+[2024-09-15 17:33:37] [ INFO ] [ProductoDaoImp:65] Producto encontrado: Producto(id=1, nombre=Papas fritas, descripcion=para comer con salsaaaaa, valorUnitario=110000, stock=1)
+[2024-09-15 17:33:37] [ INFO ] [ProductoDaoImp:85] Producto eliminado con éxito: Producto(id=1, nombre=Papas fritas, descripcion=para comer con salsaaaaa, valorUnitario=110000, stock=1)
+[2024-09-15 17:33:37] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:33:37] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:33:38] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:33:38] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:33:39] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:33:39] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:33:39] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:33:39] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:33:39] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:33:39] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:33:41] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:33:41] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:33:42] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:33:42] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:34:06] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:34:06] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 0
+[2024-09-15 17:34:14] [ INFO ] [ClienteDaoImp:52] Cliente guardado con éxito: Cliente(id=1, nombre=Isabela, apellido=Montoya Alarcón, email=isabelamontoya2021@gmail.com, createAt=Sun Sep 15 17:34:14 COT 2024)
+[2024-09-15 17:34:14] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:34:14] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 1
+[2024-09-15 17:34:32] [ INFO ] [ClienteDaoImp:52] Cliente guardado con éxito: Cliente(id=2, nombre=Marte, apellido=Montoya, email=marte@gmail.com, createAt=Sun Sep 15 17:34:32 COT 2024)
+[2024-09-15 17:34:32] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:34:32] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 2
+[2024-09-15 17:34:36] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:34:36] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 0
+[2024-09-15 17:34:55] [ INFO ] [ProductoDaoImp:49] Producto guardado con éxito: Producto(id=1, nombre=Agua, descripcion=Para refrescarse cuando hace mucho calor, valorUnitario=2300, stock=100)
+[2024-09-15 17:34:55] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:34:55] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 1
+[2024-09-15 17:35:24] [ INFO ] [ProductoDaoImp:49] Producto guardado con éxito: Producto(id=2, nombre=Cuido, descripcion=Para gatos adultos, valorUnitario=50000, stock=12)
+[2024-09-15 17:35:24] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:35:24] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 2
+[2024-09-15 17:35:29] [ INFO ] [ProductoDaoImp:60] Buscando producto con ID: 2
+[2024-09-15 17:35:29] [ INFO ] [ProductoDaoImp:65] Producto encontrado: Producto(id=2, nombre=Cuido, descripcion=Para gatos adultos, valorUnitario=50000, stock=12)
+[2024-09-15 17:35:34] [ INFO ] [ProductoDaoImp:39] Producto actualizado con éxito: Producto(id=2, nombre=Cuido, descripcion=Para gatos adultos, valorUnitario=50000, stock=1200)
+[2024-09-15 17:35:34] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:35:34] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 2
+[2024-09-15 17:35:44] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:35:44] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 2
+[2024-09-15 17:35:47] [ INFO ] [ClienteDaoImp:63] Buscando cliente con ID: 2
+[2024-09-15 17:35:47] [ INFO ] [ClienteDaoImp:68] Cliente encontrado: Cliente(id=2, nombre=Marte, apellido=Montoya, email=marte@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:35:52] [ INFO ] [ClienteDaoImp:42] Cliente actualizado con éxito:Cliente(id=2, nombre=Marte, apellido=Montoya, email=martemontoya@gmail.com, createAt=2024-09-15)
+[2024-09-15 17:35:52] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:35:52] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 2
+[2024-09-15 17:35:57] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:35:57] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 2
+[2024-09-15 17:36:12] [ INFO ] [ClienteDaoImp:52] Cliente guardado con éxito: Cliente(id=3, nombre=venus, apellido=alarcon, email=venus@gmail.com, createAt=Sun Sep 15 17:36:12 COT 2024)
+[2024-09-15 17:36:12] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:36:12] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 3
+[2024-09-15 17:36:15] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:36:15] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 2
+[2024-09-15 17:36:38] [ INFO ] [ProductoDaoImp:49] Producto guardado con éxito: Producto(id=3, nombre=Microfono, descripcion=para hablar con mis amigos, valorUnitario=250000, stock=13)
+[2024-09-15 17:36:38] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:36:38] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 3
+[2024-09-15 17:36:47] [ INFO ] [ProductoDaoImp:60] Buscando producto con ID: 2
+[2024-09-15 17:36:47] [ INFO ] [ProductoDaoImp:65] Producto encontrado: Producto(id=2, nombre=Cuido, descripcion=Para gatos adultos, valorUnitario=50000, stock=1200)
+[2024-09-15 17:36:51] [ INFO ] [ProductoDaoImp:39] Producto actualizado con éxito: Producto(id=2, nombre=Cuido, descripcion=Para gatos adultos, valorUnitario=500000, stock=1200)
+[2024-09-15 17:36:51] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:36:51] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 3
+[2024-09-15 17:36:54] [ INFO ] [ProductoDaoImp:60] Buscando producto con ID: 3
+[2024-09-15 17:36:54] [ INFO ] [ProductoDaoImp:65] Producto encontrado: Producto(id=3, nombre=Microfono, descripcion=para hablar con mis amigos, valorUnitario=250000, stock=13)
+[2024-09-15 17:36:56] [ INFO ] [ProductoDaoImp:39] Producto actualizado con éxito: Producto(id=3, nombre=Microfono, descripcion=para hablar con mis amigos, valorUnitario=250000, stock=45)
+[2024-09-15 17:36:56] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:36:56] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 3
+[2024-09-15 17:36:58] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:36:58] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 3
+[2024-09-15 17:36:59] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:36:59] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 3
+[2024-09-15 17:37:01] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:37:01] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 3
+[2024-09-15 17:37:01] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:37:01] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 3
+[2024-09-15 17:37:03] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:37:03] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 3
+[2024-09-15 17:37:03] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:37:03] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 3
+[2024-09-15 17:37:05] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:37:05] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 3
+[2024-09-15 17:37:05] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:37:05] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 3
+[2024-09-15 17:37:11] [ INFO ] [ProductoDaoImp:25] Buscando todos los productos.
+[2024-09-15 17:37:11] [ INFO ] [ProductoDaoImp:27] Número de productos encontrados: 3
+[2024-09-15 17:37:12] [ INFO ] [ClienteDaoImp:27] Buscando todos los clientes.
+[2024-09-15 17:37:12] [ INFO ] [ClienteDaoImp:29] Número de clientes encontrados: 3

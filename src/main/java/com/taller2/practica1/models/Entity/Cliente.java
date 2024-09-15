@@ -25,12 +25,12 @@ public class Cliente implements Serializable {
 
     @NotEmpty
     @Size(min = 1, max = 50)
-    @Pattern(regexp = "^[a-zA-Z\\s]+$", message = "El nombre solo puede contener letras y espacios")
+    @Pattern(regexp = "^[a-zA-ZàáèéìíòóùúüñÑ\\s]+$", message = "El nombre solo puede contener letras o espacios")
     private String nombre;
 
     @NotEmpty
     @Size(min=1, max=50)
-    @Pattern(regexp = "^[a-zA-Z\\s]+$", message = "El apellido solo puede contener letras y espacios")
+    @Pattern(regexp = "^[a-zA-ZàáèéìíòóùúüñÑ\\s]+$", message = "El apellido solo puede contener letras o espacios")
     private String apellido;
 
     @NotEmpty
